@@ -3,7 +3,7 @@
 🔧 Tech Stack
 
 React 
-<img align="right" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
  
 
 Node.js  
