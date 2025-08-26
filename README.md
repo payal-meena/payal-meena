@@ -2,7 +2,8 @@
 
 🔧 Tech Stack
 
-React  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+React  <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+ 
 
 Node.js  
 
