@@ -7,6 +7,8 @@ Html <img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devico
 Css <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 
 Javascript <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+
 
 React <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
  
