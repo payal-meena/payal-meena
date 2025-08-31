@@ -16,7 +16,8 @@ Java <img  alt="Java" width="30px" src="https://raw.githubusercontent.com/devico
 
 MySql <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
-DBMS <img alt="DBMS" width="30px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
+DBMS <img alt="DBMS" width="30px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"  src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
+
 
 🎯 About Me
 
