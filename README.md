@@ -14,7 +14,7 @@ MongoDB <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/d
 
 Java <img  alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
-MySql <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+MySql <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
 DBMS <img alt="DBMS" width="30px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
 
