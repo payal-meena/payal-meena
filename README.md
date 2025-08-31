@@ -2,9 +2,9 @@
 
 🔧 Tech Stack
 
-Html <img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+Html <img alt="HTML5" width="30px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
-Css <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+Css <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
 Javascript <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
