@@ -21,7 +21,7 @@ DBMS <img alt="DBMS" width="30px" src="https://cdn-icons-png.flaticon.com/512/42
 
 🎯 About Me
 
-✨ A BCA student passionate about web development and the MERN stack. I enjoy building projects that solve real-world problems and adding a touch of creativity through my interest in art and design.
+✨ A BCA fresher (final year, awaiting results) with a strong interest in frontend development and the MERN stack. Skilled in building practical projects and adding creative design elements.
 
 🌐 Connect with Me
 
