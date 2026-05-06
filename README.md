@@ -25,7 +25,7 @@ DBMS <img alt="DBMS" width="30px" src="https://cdn-icons-png.flaticon.com/512/42
 
 🌐 Connect with Me
 
-📂 Portfolio: [https://my-portfolio-pi-mauve-71.vercel.app/](https://my-portfolio-pi-mauve-71.vercel.app/)
+📂 Portfolio: [https://my-portfolio-pi-mauve-71.vercel.app/](https://payal-meena.github.io/my_portfolio/)
 
 🔗 LinkedIn: [https://www.linkedin.com/in/payal-meena17/](https://www.linkedin.com/in/your-username/)
 
