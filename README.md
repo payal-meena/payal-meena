@@ -12,6 +12,10 @@ React <img alt="React" width="30px" src="https://raw.githubusercontent.com/devic
  
 MongoDB <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 
+Node.js <img alt="Node.js" width="30px" src="https://githubusercontent.com" />
+
+Express <img alt="Express" width="30px" src="https://githubusercontent.com" />
+
 Java <img  alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
 MySql <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
